@@ -1,8 +1,10 @@
 # ZjuDesign
 #Hello World.. Let's start a new journey
 <ul><li>Task1</li></ul><br>
-<ul><li>Task2</li></ul><br>
+<ul><li>Task2</li><br>
 <ol><li>Task2-1</li></ol><br>
+<ol><li>Task2-2</li></ol><br>
+</ul><br>
 <ol><li>Aim1</li></ol><br>
 <ol><li>Aim2</li></ol><br>
 <ol><li>Aim3</li></ol><br>
