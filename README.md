@@ -13,5 +13,5 @@
 ![](https://www.securitynewspaper.com/snews-up/2019/10/Icons_CTF.png)
 
 <h2>My Photo</h2>
-![](img1\My-Photo.jpg)
+![](img1/My-Photo.jpg)
  
